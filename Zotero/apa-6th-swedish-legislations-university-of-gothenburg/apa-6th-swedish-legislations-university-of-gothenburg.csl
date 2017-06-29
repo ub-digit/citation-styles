@@ -7,7 +7,7 @@
     <id>http://www.zotero.org/styles/apa-6th-university-of-gothenburg</id>
     <link href="http://www.zotero.org/styles/apa-6th-university-of-gothenburg" rel="self"/>
     <link href="https://www.zotero.org/styles/apa" rel="template"/>
-    <link href="https://github.com/ub-digit/citation-styles/zotero/apa-6th-swedish-legislations-university-of-gothenburg" rel="documentation"/>
+    <link href="https://github.com/ub-digit/citation-styles/tree/master/zotero/apa-6th-swedish-legislations-university-of-gothenburg" rel="documentation"/>
     <author>
       <name>Björn Ekström</name>
       <email>bjorn.ekstrom@ub.gu.se</email>
