@@ -2,7 +2,7 @@
 *Svensk dokumentation*
 
 ## Inledning
-Det här dokumentet avser dokumentation för Zotero-stilmallen [American Psychological Association 6th edition - Swedish legislations - University of Gothenburg](http://www.zotero.org/styles/apa-6th-university-of-gothenburg).
+Det här dokumentet avser dokumentation för Zotero-stilmallen [American Psychological Association 6th edition - Swedish legislations - University of Gothenburg](http://www.zotero.org/styles/apa-6th-swedish-legislations-university-of-gothenburg).
 
 Stilmallen är en översatt och redigerad version av [American Psychological Association 6th edition (2017-05-04 21:20:38)](https://www.zotero.org/styles/apa) för Göteborgs universitet med stöd för refereringar till svensk lagstiftning, motioner, propositioner och Statens offentliga utredningar genom användning av källtypen *Författning*.
 
@@ -10,7 +10,7 @@ Stilmallen är en översatt och redigerad version av [American Psychological Ass
 Stilmallen är i formatet .csl (Citation Style Language) och installeras på följande sätt:
 
 ### För Zotero Standalone
-1. [Klicka här](http://www.zotero.org/styles/apa-6th-university-of-gothenburg)
+1. [Klicka här](http://www.zotero.org/styles/apa-6th-swedish-legislations-university-of-gothenburg)
 2. Klicka på "Installera"
 
 ### För Zotero webbläsartillägg
@@ -90,7 +90,7 @@ Eftersom stilmallen modifierar APA-referensen för källtypen *Författningar* �
 *English documentation*
 
 ## Introduction
-This document provides documentation for the Zotero stylesheet [American Psychological Association 6th edition - Swedish legislations - University of Gothenburg](http://www.zotero.org/styles/apa-6th-university-of-gothenburg).
+This document provides documentation for the Zotero stylesheet [American Psychological Association 6th edition - Swedish legislations - University of Gothenburg](http://www.zotero.org/styles/apa-6th-swedish-legislations-university-of-gothenburg).
 
 The stylesheet is a translated and edited version of [American Psychological Association 6th edition (2017-05-04 21:20:38)](https://www.zotero.org/styles/apa) for University of Gothenburg providing support for references to Swedish legislation, motions and propositions as well as to Official Reports of the Swedish Government (Statens offentliga utredningar) through the use of the item type *Statute*.
 
@@ -98,7 +98,7 @@ The stylesheet is a translated and edited version of [American Psychological Ass
 The stylesheet is in .csl (Citation Style Language) format and can be installed by following the steps below:
 
 ### For Zotero Standalone
-1. [Click here](http://www.zotero.org/styles/apa-6th-university-of-gothenburg)
+1. [Click here](http://www.zotero.org/styles/apa-6th-swedish-legislations-university-of-gothenburg)
 2. Click "Install"
 
 ### For Zotero browser extension
