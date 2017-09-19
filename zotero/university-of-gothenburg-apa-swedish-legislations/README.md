@@ -86,7 +86,7 @@ Prop 2009/10:165. *Den nya skollagen – för kunskap, valfrihet och trygghet*. 
 ### Problem
 Eftersom stilmallen modifierar APA-referensen för källtypen *Författningar* är det inte möjligt att referera till icke-svenska lagtexter med denna stilmall.
 
-# American Psychological Association 6th edition - Swedish legislations - University of Gothenburg
+# University of Gothenburg - APA (Swedish legislations)
 *English documentation*
 
 ## Introduction
