@@ -67,7 +67,7 @@ Mata in följande i en ny Zotero-post:
 #### Exempel på citering/referenslista
 (Motion 2011/12:Ub467)
 
-Motion 2011/12:Ub467. *Elevers rätt till kunskaper*. Tillgänglig: http://www.riksdagen.se/webbnav/?nid=410&dok_id=GZ02Ub467
+Motion 2011/12:Ub467. *Elevers rätt till kunskaper*. Tillgänglig: https://www.riksdagen.se/sv/dokument-lagar/dokument/motion/elevers-ratt-till-kunskaper_GZ02Ub467
 
 ### För propositioner
 Mata in följande i en ny Zotero-post:
@@ -155,7 +155,7 @@ Enter the following in a new Zotero post:
 #### Example of citation/bibliography
 (Motion 2011/12:Ub467)
 
-Motion 2011/12:Ub467. *Elevers rätt till kunskaper*. Available at: http://www.riksdagen.se/webbnav/?nid=410&dok_id=GZ02Ub467
+Motion 2011/12:Ub467. *Elevers rätt till kunskaper*. Available at: https://www.riksdagen.se/sv/dokument-lagar/dokument/motion/elevers-ratt-till-kunskaper_GZ02Ub467
 
 ### For propositions
 Enter the following in a new Zotero post:
