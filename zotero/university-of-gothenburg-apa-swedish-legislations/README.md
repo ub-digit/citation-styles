@@ -1,5 +1,5 @@
 # University of Gothenburg - APA (Swedish legislations)
-*Svensk dokumentation*
+*Svensk dokumentation (for English, please scroll down)*
 
 ## Inledning
 Det här dokumentet avser dokumentation för Zotero-stilmallen [University of Gothenburg - APA (Swedish legislations)](http://www.zotero.org/styles/university-of-gothenburg-apa-swedish-legislations).
