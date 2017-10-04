@@ -9,18 +9,14 @@ Stilmallen är en översatt och redigerad version av [American Psychological Ass
 ## Installation
 Stilmallen är i formatet .csl (Citation Style Language) och installeras på följande sätt:
 
-### För Zotero Standalone
-1. [Klicka här](http://www.zotero.org/styles/university-of-gothenburg-apa-swedish-legislations)
-2. Klicka på "Installera"
-
-### För Zotero webbläsartillägg
-1.	Sök efter stilmallen på [Zotero Style Repository](http://www.zotero.org/styles) och ladda ner den genom att högerklicka, Spara länk som...
-2.	Öppna Zotero webbläsartillägg
-3.	Klicka på kugghjulet “Åtgärder”
-4.	Klicka på “Inställningar…”
-5.	Klicka på fliken “Källhänvisa”
-6.	Klicka på fliken “Stilar”
-7.	Klicka på “+”-ikonen, välj .csl-filen och klicka på "Installera"
+1.	Öppna Zotero
+2.	Klicka på "Verktyg"
+3.	Klicka på “Inställningar…”
+4.	Klicka på fliken “Källhänvisa”
+5.	Klicka på fliken “Stilar”
+6.	Klicka på "Lägg till ytterligare stilar..."
+7.	Sök efter stilmallen och ladda ner den genom att högerklicka, Spara länk som...
+8.	I Zotero, klicka på “+”-ikonen i fliken "Stilar", välj .csl-filen och klicka på "Installera"
 
 ## Användning
 Medan det med tidigare stilmallar för APA inte går att källhänvisa och referera till svenska lagtexter (från Svensk författningssamling), propositioner, motioner och statliga offentliga utredningar så är detta nu möjligt med denna uppdaterade och redigerade version.
@@ -97,18 +93,14 @@ The stylesheet is a translated and edited version of [American Psychological Ass
 ## Installation
 The stylesheet is in .csl (Citation Style Language) format and can be installed by following the steps below:
 
-### For Zotero Standalone
-1. [Click here](http://www.zotero.org/styles/university-of-gothenburg-apa-swedish-legislations)
-2. Click "Install"
-
-### For Zotero browser extension
-1.	Search for the stylesheet at [Zotero Style Repository](http://www.zotero.org/styles) and download it by right-clicking, Save link as...
-2.	Open the Zotero browser extension
-3.	Click the cogwheel icon “Actions”
-4.	Click “Preferences…”
-5.	Click the tab “Cite”
-6.	Click the tab “Styles”
-7.	Click the ”+” icon, choose the .csl file and click "Install"
+1.	Open Zotero
+2.	Click "Tools”
+3.	Click “Preferences…”
+4.	Click the tab “Cite”
+5.	Click the tab “Styles”
+6.	Click "Get additional styles..."
+7.	Search for the stylesheet and download it by right-clicking, Save link as...
+8.	In Zotero, click the ”+” icon in the tab "Styles", choose the .csl file and click "Install"
 
 ## Usage
 While previous APA stylesheets can’t cite and refer to Swedish legislations (from Svensk författningssamling), motions and propositions nor to Official Reports of the Swedish Government (Statens offentliga utredningar), this is now possible with the updated and edited version.
