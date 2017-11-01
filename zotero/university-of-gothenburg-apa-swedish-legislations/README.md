@@ -70,7 +70,7 @@ Mata in följande i en ny Zotero-post:
 
 * **Källtyp:** *Författning*
 * **Författningens namn:** *Titel på proposition*
-* **Författningssamling:** *Prop*
+* **Författningssamling:** *Prop.*
 * **Författningsnummer:** *19XX:XX*
 * **URL:** *Länk till proposition*
 
@@ -154,7 +154,7 @@ Enter the following in a new Zotero post:
 
 * **Item type:** *Statute*
 * **Name of Act:** *Title of proposition*
-* **Code:** *Prop*
+* **Code:** *Prop.*
 * **Code Number:** *19XX:XX*
 * **URL:** *URL to proposition*
 
