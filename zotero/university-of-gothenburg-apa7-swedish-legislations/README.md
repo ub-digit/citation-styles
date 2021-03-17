@@ -2,7 +2,7 @@
 *Svensk dokumentation (for English, please scroll down)*
 
 ## Inledning
-Det här dokumentet avser dokumentation för Zotero-stilmallen [University of Gothenburg – APA7 (Swedish legislations)](http://example.com).
+Det här dokumentet avser dokumentation för Zotero-stilmallen [University of Gothenburg – APA7 (Swedish legislations)](https://www.zotero.org/styles/university-of-gothenburg-apa-7th-edition-swedish-legislations).
 
 Stilmallen är en översatt och redigerad version av [American Psychological Association 7th edition](https://www.zotero.org/styles/apa) för Göteborgs universitet med stöd för refereringar till svensk lagstiftning, motioner, propositioner och Statens offentliga utredningar genom användning av källtypen *Författning*.
 
@@ -85,7 +85,7 @@ Eftersom stilmallen modifierar APA-referensen för källtypen *Författningar* �
 *English documentation*
 
 ## Introduction
-This document provides documentation for the Zotero stylesheet [University of Gothenburg - APA (Swedish legislations)](http://example.com)
+This document provides documentation for the Zotero stylesheet [University of Gothenburg - APA (Swedish legislations)](https://www.zotero.org/styles/university-of-gothenburg-apa-7th-edition-swedish-legislations)
 
 The stylesheet is a translated and edited version of [American Psychological Association 7th edition](https://www.zotero.org/styles/apa) for University of Gothenburg providing support for references to Swedish legislation, motions and propositions as well as to Official Reports of the Swedish Government (Statens offentliga utredningar) through the use of the item type *Statute*.
 
